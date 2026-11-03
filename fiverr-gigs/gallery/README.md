@@ -15,6 +15,7 @@ fiverr-gallery/
     video/gig-video-DRAFT-from-stills.mp4
   2-blueprint-combat-ai/   (same layout)
   3-shooter-gameplay/      (same layout)
+  4-environment-set-dressing-lighting/   (same layout)
 ```
 
 ## Upload plan
@@ -24,12 +25,13 @@ fiverr-gallery/
 | 1 Level Design | 01-cover-paper-to-final | 02-nightclub-blockout-vs-final | 03-range-arenas-and-environments | shared portfolio | How-it-works | draft (34 s) |
 | 2 Blueprint Combat + AI | 01-cover-combat-ai | 02-what-i-build | 03-real-projects | shared portfolio | How-it-works | draft (28 s) |
 | 3 Shooter + Gameplay | 01-cover-third-person-shooter | 02-gameplay-systems | 03-real-projects | shared portfolio | How-it-works | draft (28 s) |
+| 4 Environment Art | 01-cover-environment-art | 02-blockout-vs-dressed-and-lit | 03-environments-i-have-built | shared portfolio | How-it-works | draft (34 s) |
 
 `04-bonus-packages.png` in each folder is a spare. Use it if you get a 4th slot, or swap it in for Image 3.
 
 ## About the videos
 
-The three MP4s are **drafts built from your screenshots** (slides with captions and fades, no sound). They work as a placeholder, but a gig video with real gameplay footage converts much better. Replace them using the shot lists below. Fiverr gig videos are up to 75 seconds, so aim for 30 to 45.
+The four MP4s are **drafts built from your screenshots** (slides with captions and fades, no sound). They work as a placeholder, but a gig video with real gameplay footage converts much better. Replace them using the shot lists below. Fiverr gig videos are up to 75 seconds, so aim for 30 to 45.
 
 ## Gig 1: Level Design, video shot list (35 s)
 
@@ -65,6 +67,16 @@ The three MP4s are **drafts built from your screenshots** (slides with captions 
 | 0:35 to 0:40 | Packages and call to action |
 
 Recording tips: 1080p, 60 fps, hide the editor UI except in the Blueprint and Behavior Tree shots, add captions (many buyers watch muted), and a royalty-free music track at low volume.
+
+## Gig 4: Environment Art, video shot list (35 s)
+
+| Time | Record |
+|---|---|
+| 0:00 to 0:04 | Title card over a European Town shot |
+| 0:04 to 0:12 | Blockout fly-through, then the same camera path in the dressed and lit scene |
+| 0:12 to 0:20 | Lighting changes in the editor: sun angle, fog and post process (time-lapse) |
+| 0:20 to 0:30 | Slow camera move through Hidden Cave, Forgotten Temple and the Village |
+| 0:30 to 0:35 | Packages and call to action |
 
 ## Extra images worth capturing (to replace or add)
 
